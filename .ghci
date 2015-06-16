@@ -1,0 +1,43 @@
+:set prompt "λ> "
+:set +m
+:set +t
+:set +s
+:seti -XBangPatterns
+:seti -XBinaryLiterals
+:seti -XConstrainedClassMethods
+:seti -XConstraintKinds
+:seti -XDataKinds
+:seti -XDefaultSignatures
+:seti -XEmptyDataDecls
+:seti -XExistentialQuantification
+:seti -XFlexibleContexts
+:seti -XFlexibleInstances
+:seti -XGADTs
+-- :seti -XGeneralizedNewtypeDeriving
+:seti -XInstanceSigs
+:seti -XLambdaCase
+:seti -XLiberalTypeSynonyms
+:seti -XMonadComprehensions
+:seti -XMultiParamTypeClasses
+:seti -XNamedFieldPuns
+:seti -XNamedWildCards
+:seti -XNegativeLiterals
+:seti -XOverloadedLists
+:seti -XOverloadedStrings
+:seti -XParallelListComp
+:seti -XPartialTypeSignatures
+:seti -XPatternGuards
+:seti -XPatternSynonyms
+:seti -XPolyKinds
+:seti -XPostfixOperators
+:seti -XRankNTypes
+:seti -XRecordWildcards
+:seti -XRecursiveDo
+:seti -XScopedTypeVariables
+:seti -XStandaloneDeriving
+:seti -XTupleSections
+:seti -XTypeFamilies
+:seti -XTypeOperators
+:seti -XUnboxedTuples
+:seti -XViewPatterns
+
