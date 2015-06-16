@@ -1,4 +1,5 @@
-:set prompt "λ> "
+:set prompt  "λ> "
+:set prompt2 " | "
 :set +m
 :set +t
 :set +s
@@ -31,7 +32,7 @@
 :seti -XPolyKinds
 :seti -XPostfixOperators
 :seti -XRankNTypes
-:seti -XRecordWildcards
+:seti -XRecordWildCards
 :seti -XRecursiveDo
 :seti -XScopedTypeVariables
 :seti -XStandaloneDeriving
