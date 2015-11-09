@@ -1,0 +1,9 @@
+#!/bin/sh
+stack install stylish-haskell hasktags hlint structured-haskell-mode
+sudo apt-get install libtinfo-dev
+#cd ~/.ghc/src/ghci-ng
+#stack init
+#stack install
+cd ~/.ghc/src/ghc-mod
+#sed -ie 's/lts-3.1/lts-3.10' stack.yaml
+stack install

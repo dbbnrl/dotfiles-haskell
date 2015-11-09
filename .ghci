@@ -3,6 +3,7 @@
 :set +m
 :set +t
 :set +s
+:set +c
 :seti -XBangPatterns
 :seti -XBinaryLiterals
 :seti -XConstrainedClassMethods
